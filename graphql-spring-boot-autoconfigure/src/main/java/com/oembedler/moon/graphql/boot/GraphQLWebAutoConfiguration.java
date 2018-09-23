@@ -19,7 +19,6 @@
 
 package com.oembedler.moon.graphql.boot;
 
-import com.coxautodev.graphql.tools.PerFieldObjectMapperProvider;
 import com.fasterxml.jackson.databind.InjectableValues;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import graphql.execution.AsyncExecutionStrategy;
